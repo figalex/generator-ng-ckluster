@@ -1,6 +1,6 @@
 {
   "name": "generator-ng-ckluster",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Helps to build modules on own angular project",
   "license": "MIT",
   "main": "app/index.js",
@@ -17,7 +17,8 @@
     "test": "mocha"
   },
   "files": [
-    "app"
+    "app",
+    "module"
   ],
   "keywords": [
     "yeoman-generator",
