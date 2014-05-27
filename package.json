@@ -1,13 +1,9 @@
 {
   "name": "generator-ng-ckluster",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Helps to build modules on own angular project",
   "license": "MIT",
   "main": "app/index.js",
-  "files":[
-    "app",
-    "module"
-  ],
   "repository": "figalex/generator-ng-ckluster",
   "author": {
     "name": "Alejandro Figueroa",
